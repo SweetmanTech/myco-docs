@@ -1,50 +1,39 @@
-# Zora Profile
+# Smart Wallets for Creators
 
-Zora is a decentralized protocol for creating, collecting, and trading unique digital assets. The Zora profile is an essential part of the Zora ecosystem, allowing users to showcase their digital collections and engage with the community.
+## What is a Smart Wallet?
 
-## What is a Zora Profile?
+For creators, a smart wallet is a powerful authentication tool that acts as your login credentials to manage digital assets and interact with applications. Unlike social media sign-ins, smart wallets offer advanced features such as:
 
-A Zora profile is a personalized space on the Zora platform where users can:
+- **Multiple account management**: Create and manage separate accounts for different purposes (e.g., personal, business, specific projects).
+- **Enhanced security**: Implement multi-signature functionality and social recovery options.
+- **Programmable transactions**: Set up automatic or conditional transactions based on predefined rules.
+- **Gas fee optimization**: Automatically adjust gas fees for more cost-effective transactions.
+- **Seamless dApp integration**: Easily interact with various decentralized applications, including NFT marketplaces and social platforms.
 
-1. Display their NFT collections
-2. Showcase their created digital assets
-3. Interact with other collectors and creators
-4. Build their reputation within the Zora community
+For creators, smart wallets simplify the process of creating, selling, and managing digital assets while providing a more user-friendly experience in the creator ecosystem.
 
-## Myco Profile Selector
+## Setting Up a New Zora Profile with a Smart Wallet
 
-The Myco Profile Selector is a tool designed to enhance the Zora profile experience. It allows users to select and manage multiple profiles within the Zora ecosystem.
+To create a new Zora profile using your smart wallet:
 
-### Features of Myco Profile Selector
+1. Visit the Zora platform (https://zora.co/).
+2. Click on the "Connect Wallet" button.
+3. Choose your smart wallet provider (e.g., Coinbase Wallet).
+4. Follow the prompts to connect your smart wallet.
+5. Once connected, click on your profile icon and select "Edit Profile."
+6. Fill in your profile information, including your username, bio, and profile picture.
+7. Save your changes to create your new Zora profile.
 
-- **Multiple Profile Management**: Users can create and switch between different profiles.
-- **Profile Creation**: Easily create new profiles with customizable attributes.
-- **Profile Switching**: Seamlessly switch between different profiles without logging out.
-- **Integration with Zora**: Fully compatible with the Zora platform and its features.
+## Connecting an Existing Zora Profile to Your Smart Wallet
 
-## Setting Up Your Zora Profile with Myco Profile Selector
+If you already have a Zora profile and want to connect it to your smart wallet using the Myco Profile Selector:
 
-1. Connect your smart wallet.
-2. Use the Myco Profile Selector to select a profile.
-3. Click the Connect button to link the Zora Profile to your wallet.
-4. Create new tokens, using your smart wallet, in your existing Zora Profile.
+1. Go to the Myco Profile Selector (https://settings.myco.wtf/).
+2. Connect your smart wallet by clicking the "Connect Wallet" button.
+3. Once connected, search for your Zora profile.
+4. Select the profile you want to connect to your smart wallet.
+5. Click the "Connect" button to link the selected Zora profile to your wallet.
 
-## Best Practices for Your Zora Profile
+## Updating Your Connected Profile
 
-- Utilize multiple profiles for different purposes (e.g., personal collection, artist showcase, curator profile).
-- Keep your profile information up-to-date across all your profiles.
-- Regularly showcase new additions to your collections.
-- Engage with the community by following other profiles and participating in discussions.
-- If you're a creator, maintain a consistent style or theme in your works to build a recognizable brand.
-
-## Technical Integration
-
-The Myco Profile Selector is built using Next.js and integrates with the Zora API. It leverages technologies such as:
-
-- Coinbase Smart Wallet for wallet connection
-- Wagmi / Viem for Ethereum interactions
-- Tailwind CSS for styling
-
-Developers can contribute to or customize the Myco Profile Selector by visiting the [GitHub repository](https://github.com/SweetmanTech/myco-profile-selector).
-
-By leveraging your Zora profile with the Myco Profile Selector, you can establish a strong and versatile presence in the decentralized art world, connecting with like-minded collectors and creators across multiple personas or focuses.
+To switch to a different Zora profile, follow the `Connecting an Existing Zora Profile to Your Smart Wallet` steps above.
