@@ -10,6 +10,7 @@ This GitBook repository contains comprehensive documentation for Myco, including
   - [Creator Tools](#creator-tools)
   - [Indexing](#indexing)
   - [Profile Selector](#profile-selector)
+  - [Myco Profile](#myco-profile)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
 
@@ -42,6 +43,12 @@ For more information on Myco's indexing features, check out the [Indexing](index
 The Myco Profile Selector is a tool that enhances the creator profile experience by allowing users to select and manage multiple profiles within supported ecosystems. It offers features such as multiple profile management, easy profile creation, and seamless profile switching.
 
 To learn more about the Myco Profile Selector, visit the [Profile Selector](profile-selector.md) section.
+
+### Myco Profile
+
+Myco Profile is a tool that allows users to explore and showcase Zora tokens and collections. It provides a user-friendly interface for viewing an artist's or collector's digital assets, integrating seamlessly with the Zora ecosystem.
+
+To learn more about Myco Profile, visit the [Myco Profile](myco-profile.md) section.
 
 ## Getting Started
 

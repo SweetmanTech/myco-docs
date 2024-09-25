@@ -1,4 +1,5 @@
 # Table of contents
 
 - [Introduction](README.md)
-- [Zora Profile](zora-profile.md)
+- [Smart Wallets](smart-wallets.md)
+- [Profile](myco-profile.md)
