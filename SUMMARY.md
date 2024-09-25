@@ -1,4 +1,4 @@
 # Table of contents
 
-- [Page](README.md)
+- [Introduction](README.md)
 - [Zora Profile](zora-profile.md)
