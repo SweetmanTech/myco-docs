@@ -1,13 +1,19 @@
-# Myco Profile
+---
+description: Explore a profile's digital art.
+---
+
+# Profile
 
 Myco Profile is a powerful tool that allows users to explore and showcase digital art in a user-friendly interface. It's designed to enhance the creator experience by providing a comprehensive view of an artist's or collector's digital assets.
 
 ## Features
 
-- **Token and Collection Support**: View all tokens and collections created by any ENS, address or handle.
-- **Easy Search**: Simply enter an ENS, address or handle to explore their digital assets.
-- **Zora Integration**: Seamless integration with Zora profile and collection pages.
-- **Open-Source**: Built on the Lora Profile (lite zora) codebase, allowing developers to fork and customize.
+* **Token and Collection Support**: View all tokens and collections created by any ENS, address or handle.
+* **Easy Search**: Simply enter an ENS, address or handle to explore their digital assets.
+* **Zora Integration**: Seamless integration with Zora profile and collection pages.
+* **Open-Source**: Built on the Lora Profile (lite zora) codebase, allowing developers to fork and customize.
+
+{% embed url="https://youtu.be/H0ShSrapCGE?si=PR0EruTNIouEe_cq" %}
 
 ## How to Use
 
@@ -19,29 +25,29 @@ Myco Profile is a powerful tool that allows users to explore and showcase digita
 
 ## Examples
 
-- Search for artists like "NewtroArts" or "Pamilo" to see their created tokens and collections.
-- Explore profiles of platforms like "base" or "Vinito" to view their associated digital assets.
+* Search for artists like "[NewtroArts](https://profile.myco.wtf/NewtroArts)" or "[Pamilo](https://profile.myco.wtf/pamilo)" to see their created tokens and collections.
+* Explore profiles of platforms like "[base](https://profile.myco.wtf/base)" or "[Vinito](https://profile.myco.wtf/vinito)" to view their associated digital assets.
 
 ## Technical Details
 
 Myco Profile is built using the open-source Lora Profile (lite zora) codebase. Developers can fork the repository to create their own version of profiles and collections.
 
-- **GitHub Repository**: [https://github.com/SweetmanTech/lora-profile](https://github.com/SweetmanTech/lora-profile)
+* **GitHub Repository**: [https://github.com/SweetmanTech/lora-profile](https://github.com/SweetmanTech/lora-profile)
 
 ## Integration with Zora
 
 Myco Profile seamlessly integrates with Zora:
 
-- Clicking on a token opens its Zora profile page
-- Clicking on a collection brings you to the Zora collection page
+* Clicking on a token opens its Zora profile page
+* Clicking on a collection brings you to the Zora collection page
 
 This integration allows users to easily navigate between Myco Profile and Zora's ecosystem.
 
 ## Benefits for Creators and Collectors
 
-- **Showcase**: Artists can easily display all their created tokens and collections in one place.
-- **Discovery**: Collectors can explore an artist's complete portfolio effortlessly.
-- **Community**: Facilitates connections between creators and collectors digitally.
+* **Showcase**: Artists can easily display all their created tokens and collections in one place.
+* **Discovery**: Collectors can explore an artist's complete portfolio effortlessly.
+* **Community**: Facilitates connections between creators and collectors digitally.
 
 ## Future Development
 
