@@ -1,41 +1,57 @@
-# Zora Profile Documentation
+# Myco Documentation
 
-This GitBook repository contains documentation for Zora Profiles and the Myco Profile Selector, a tool designed to enhance the Zora profile experience.
+This GitBook repository contains comprehensive documentation for Myco, including its various components and tools designed to enhance the Web3 creator experience.
 
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Zora Profile](#zora-profile)
-- [Myco Profile Selector](#myco-profile-selector)
+- [Myco Components](#myco-components)
+  - [API](#api)
+  - [Creator Tools](#creator-tools)
+  - [Indexing](#indexing)
+  - [Profile Selector](#profile-selector)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
 
 ## Introduction
 
-Zora is a decentralized protocol for creating, collecting, and trading unique digital assets. This documentation aims to provide comprehensive information about Zora Profiles and the Myco Profile Selector tool.
+Myco is a suite of tools and services designed to empower creators in the Web3 ecosystem. This documentation aims to provide comprehensive information about all aspects of Myco, including its API, creator tools, indexing capabilities, and profile management features.
 
-## Zora Profile
+## Myco Components
 
-A Zora profile is a personalized space on the Zora platform where users can showcase their digital collections, display created assets, interact with other collectors and creators, and build their reputation within the Zora community.
+### API
 
-For detailed information about Zora Profiles, please refer to the [Zora Profile](zora-profile.md) page.
+The Myco API provides developers with powerful endpoints to interact with the Myco ecosystem programmatically. It enables seamless integration of Myco features into various applications and services.
 
-## Myco Profile Selector
+For detailed information about the Myco API, please refer to the [API Documentation](api-documentation.md) page.
 
-The Myco Profile Selector is a tool that enhances the Zora profile experience by allowing users to select and manage multiple profiles within the Zora ecosystem. It offers features such as multiple profile management, easy profile creation, and seamless profile switching.
+### Creator Tools
 
-To learn more about the Myco Profile Selector, visit the [Zora Profile](zora-profile.md#myco-profile-selector) section.
+Myco offers a range of creator tools designed to streamline the process of creating, managing, and monetizing digital assets. These tools empower creators to focus on their craft while leveraging the benefits of Web3 technology.
+
+To learn more about Myco's creator tools, visit the [Creator Tools](creator-tools.md) section.
+
+### Indexing
+
+Myco's indexing capabilities provide fast and efficient access to on-chain data, enabling powerful search and discovery features across the ecosystem.
+
+For more information on Myco's indexing features, check out the [Indexing](indexing.md) page.
+
+### Profile Selector
+
+The Myco Profile Selector is a tool that enhances the Web3 profile experience by allowing users to select and manage multiple profiles within supported ecosystems. It offers features such as multiple profile management, easy profile creation, and seamless profile switching.
+
+To learn more about the Myco Profile Selector, visit the [Profile Selector](profile-selector.md) section.
 
 ## Getting Started
 
-To get started with Zora Profiles and the Myco Profile Selector:
+To get started with Myco:
 
-1. Connect your smart wallet.
-2. Use the Myco Profile Selector to select a profile.
-3. Click the Connect button to link the Zora Profile to your wallet.
-4. Create new tokens, using your smart wallet, in your existing Zora Profile.
+1. Explore the documentation for the specific Myco component you're interested in.
+2. Follow the setup instructions provided in each component's documentation.
+3. Integrate Myco features into your projects or use Myco tools to enhance your Web3 experience.
 
-For more detailed instructions, check out the [Setting Up Your Zora Profile](zora-profile.md#setting-up-your-zora-profile-with-myco-profile-selector) section.
+For more detailed instructions, check out the [Getting Started](getting-started.md) guide.
 
 ## Contributing
 
@@ -46,4 +62,4 @@ We welcome contributions to improve this documentation. If you'd like to contrib
 3. Make your changes and commit them
 4. Create a pull request with a clear description of your changes
 
-For more information about the Myco Profile Selector, visit the [GitHub repository](https://github.com/SweetmanTech/myco-profile-selector).
+For more information about Myco and its components, visit the [Myco GitHub organization](https://github.com/myco-labs).
