@@ -15,7 +15,7 @@ This GitBook repository contains comprehensive documentation for Myco, including
 
 ## Introduction
 
-Myco is a suite of tools and services designed to empower creators in the Web3 ecosystem. This documentation aims to provide comprehensive information about all aspects of Myco, including its API, creator tools, indexing capabilities, and profile management features.
+Myco is a suite of tools and services designed to empower creative builders. This documentation aims to provide comprehensive information about all aspects of Myco, including its API, creator tools, indexing capabilities, and profile management features.
 
 ## Myco Components
 
@@ -33,13 +33,13 @@ To learn more about Myco's creator tools, visit the [Creator Tools](creator-tool
 
 ### Indexing
 
-Myco's indexing capabilities provide fast and efficient access to on-chain data, enabling powerful search and discovery features across the ecosystem.
+Myco's indexing capabilities provide fast and efficient access to onchain data, enabling powerful search and discovery features across the ecosystem.
 
 For more information on Myco's indexing features, check out the [Indexing](indexing.md) page.
 
 ### Profile Selector
 
-The Myco Profile Selector is a tool that enhances the Web3 profile experience by allowing users to select and manage multiple profiles within supported ecosystems. It offers features such as multiple profile management, easy profile creation, and seamless profile switching.
+The Myco Profile Selector is a tool that enhances the creator profile experience by allowing users to select and manage multiple profiles within supported ecosystems. It offers features such as multiple profile management, easy profile creation, and seamless profile switching.
 
 To learn more about the Myco Profile Selector, visit the [Profile Selector](profile-selector.md) section.
 
