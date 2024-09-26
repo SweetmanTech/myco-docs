@@ -1,14 +1,14 @@
-# Smart Wallets for Creators
+# Smart Wallets
 
 ## What is a Smart Wallet?
 
 For creators, a smart wallet is a powerful authentication tool that acts as your login credentials to manage digital assets and interact with applications. Unlike social media sign-ins, smart wallets offer advanced features such as:
 
-- **Multiple account management**: Create and manage separate accounts for different purposes (e.g., personal, business, specific projects).
-- **Enhanced security**: Implement multi-signature functionality and social recovery options.
-- **Programmable transactions**: Set up automatic or conditional transactions based on predefined rules.
-- **Gas fee optimization**: Automatically adjust gas fees for more cost-effective transactions.
-- **Seamless dApp integration**: Easily interact with various decentralized applications, including NFT marketplaces and social platforms.
+* **Multiple account management**: Create and manage separate accounts for different purposes (e.g., personal, business, specific projects).
+* **Enhanced security**: Implement multi-signature functionality and social recovery options.
+* **Programmable transactions**: Set up automatic or conditional transactions based on predefined rules.
+* **Gas fee optimization**: Automatically adjust gas fees for more cost-effective transactions.
+* **Seamless dApp integration**: Easily interact with various decentralized applications, including NFT marketplaces and social platforms.
 
 For creators, smart wallets simplify the process of creating, selling, and managing digital assets while providing a more user-friendly experience in the creator ecosystem.
 
@@ -33,6 +33,8 @@ If you already have a Zora profile and want to connect it to your smart wallet u
 3. Once connected, search for your Zora profile.
 4. Select the profile you want to connect to your smart wallet.
 5. Click the "Connect" button to link the selected Zora profile to your wallet.
+
+{% embed url="https://www.youtube.com/watch?v=mHYTNRkiLBg&feature=youtu.be" %}
 
 ## Updating Your Connected Profile
 
