@@ -11,6 +11,28 @@ The Zora Score is calculated using four main components, each contributing equal
 3. **Collected (25%)**: Accounts for interactions such as comments and tips.
 4. **Earned (25%)**: Considers various earning activities, including createReferral, mintReferral, creator earnings, and Zora-specific earnings.
 
+### Created Score Details
+
+The Created score is based on the number of tokens a user has created. It uses the following endpoint to retrieve token creation data:
+
+#### Tokens Endpoint
+
+`GET https://api.myco.wtf/api/zora/tokens?creatorAddress={user_address}`
+
+This endpoint returns an array of UpdatedPermissions events. These events are emitted when permissions are changed on a contract, including token setup, when the default admin (the creator) is defined. We use this array of events to represent the list of tokens an account has created.
+
+#### Score Calculation
+
+The Created score is calculated with a perfect score of 111 tokens created. The formula used is:
+
+createdScore = (numberOfTokensCreated / perfectScore) \* 100
+
+Where:
+
+- numberOfTokensCreated is the count of tokens created by the user
+- perfectScore is 111
+- The result is capped at 100 if it exceeds that value
+
 ## API Usage
 
 To retrieve a user's Zora Score, you can use the Myco API. Here's how to access the score data:
