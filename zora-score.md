@@ -17,7 +17,7 @@ To retrieve a user's Zora Score, you can use the Myco API. Here's how to access 
 
 ### Endpoint
 
-GET https://api.myco.wtf/api/profile?address={user_address}
+GET https://api.myco.wtf/api/zora/score?address={user_address}
 
 ### Example Request
 
