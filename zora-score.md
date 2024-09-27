@@ -1,6 +1,6 @@
 # Zora Score
 
-Zora Score is a metric designed to measure a user's engagement and activity within the Zora ecosystem. It provides creators and collectors with a quantitative representation of their contributions and interactions on the platform.
+Zora Score is a metric designed to measure a user's engagement and activity within the Zora ecosystem. It was originally conceived during the Aleph popup city event in Buenos Aires, when Juampi from Talent Protocol approached the myco.wtf team with the idea of creating a Zora-based score to support the Talent Builder Score. This collaboration led to the development of a quantitative representation of users' contributions and interactions on the Zora platform.
 
 ## Score Components
 
@@ -22,12 +22,12 @@ GET https://api.myco.wtf/api/profile?address={user_address}
 ### Example Request
 
 ```bash
-curl -X GET "https://api.myco.wtf/api/profile?address=0x33912a0d6beff5fb8e5b70688ce858d5e7e8104e"
+curl -X GET "https://api.myco.wtf/api/zora/score?address=0x33912a0d6beff5fb8e5b70688ce858d5e7e8104e"
 ```
 
 ### Response
 
-The API returns a JSON object containing various profile details, including the Zora Score. The score information can be found in the `zoraScore` field of the response.
+The API returns a JSON object containing various profile details, including the Zora Score. The score information can be found in the `score` field of the response.
 
 ## Interpreting the Score
 
