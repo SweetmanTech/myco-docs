@@ -6,9 +6,6 @@ This GitBook repository contains comprehensive documentation for myco.wtf, inclu
 
 - [Introduction](#introduction)
 - [Myco Components](#myco-components)
-  - [Scores](zora-score.md)
-  - [Accounts](smart-wallets.md)
-  - [Profiles](myco-profile.md)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
 
@@ -36,18 +33,6 @@ Myco's indexing capabilities provide fast and efficient access to onchain data, 
 
 For more information on Myco's indexing features, check out the [Indexing](indexing.md) page.
 
-### Profile Selector
-
-The Myco Profile Selector is a tool that enhances the creator profile experience by allowing users to select and manage multiple profiles within supported ecosystems. It offers features such as multiple profile management, easy profile creation, and seamless profile switching.
-
-To learn more about the Myco Profile Selector, visit the [Profile Selector](profile-selector.md) section.
-
-### Myco Profile
-
-Myco Profile is a tool that allows users to explore and showcase Zora tokens and collections. It provides a user-friendly interface for viewing an artist's or collector's digital assets, integrating seamlessly with the Zora ecosystem.
-
-To learn more about Myco Profile, visit the [Myco Profile](myco-profile.md) section.
-
 ## Getting Started
 
 To get started with Myco:
@@ -67,4 +52,4 @@ We welcome contributions to improve this documentation. If you'd like to contrib
 3. Make your changes and commit them
 4. Create a pull request with a clear description of your changes
 
-For more information about Myco and its components, visit the [Myco GitHub organization](https://github.com/myco-labs).
+For more information about Myco and its components, visit the [Myco GitHub](https://github.com/SweetmanTech/myco-docs/pull/5).
