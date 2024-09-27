@@ -24,3 +24,22 @@ GET https://api.myco.wtf/api/profile?address={user_address}
 ```bash
 curl -X GET "https://api.myco.wtf/api/profile?address=0x33912a0d6beff5fb8e5b70688ce858d5e7e8104e"
 ```
+
+### Response
+
+The API returns a JSON object containing various profile details, including the Zora Score. The score information can be found in the `zoraScore` field of the response.
+
+## Interpreting the Score
+
+The Zora Score provides insights into a user's overall engagement and contribution to the Zora ecosystem. A higher score indicates more active participation across the four main components.
+
+Creators and collectors can use this score to:
+
+- Gauge their level of activity and contribution on the platform
+- Set goals for increasing their engagement
+- Compare their activity levels with other users
+- Potentially unlock new features or opportunities based on their score (subject to platform policies)
+
+## Note
+
+The Zora Score calculation method may be subject to changes and improvements over time. Always refer to the latest documentation for the most up-to-date information on score calculation and interpretation.
