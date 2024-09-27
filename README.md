@@ -42,4 +42,4 @@ We welcome contributions to improve this documentation. If you'd like to contrib
 3. Make your changes and commit them
 4. Create a pull request with a clear description of your changes
 
-For more information about Myco and its components, visit the [Myco GitHub](https://github.com/SweetmanTech/myco-docs/pull/5).
+For more information about Myco and its components, visit the [Myco GitHub](https://github.com/SweetmanTech/myco-docs/).
