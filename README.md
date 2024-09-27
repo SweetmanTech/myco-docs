@@ -1,16 +1,14 @@
 # Myco Documentation
 
-This GitBook repository contains comprehensive documentation for Myco, including its various components and tools designed to enhance the Web3 creator experience.
+This GitBook repository contains comprehensive documentation for myco.wtf, including its various components and tools designed to enhance the creative builder experience.
 
 ## Table of Contents
 
 - [Introduction](#introduction)
 - [Myco Components](#myco-components)
-  - [API](#api)
-  - [Creator Tools](#creator-tools)
-  - [Indexing](#indexing)
-  - [Profile Selector](#profile-selector)
-  - [Myco Profile](#myco-profile)
+  - [Scores](zora-score.md)
+  - [Accounts](smart-wallets.md)
+  - [Profiles](myco-profile.md)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
 
