@@ -26,7 +26,7 @@ For detailed information about the Myco API, please refer to the [API Documentat
 
 ### Creator Tools
 
-Myco offers a range of creator tools designed to streamline the process of creating, managing, and monetizing digital assets. These tools empower creators to focus on their craft while leveraging the benefits of Web3 technology.
+Myco offers a range of creator tools designed to streamline the process of creating, managing, and monetizing digital assets. These tools empower creators to focus on their craft while leveraging the benefits of creative building technology.
 
 To learn more about Myco's creator tools, visit the [Creator Tools](creator-tools.md) section.
 
@@ -54,7 +54,7 @@ To get started with Myco:
 
 1. Explore the documentation for the specific Myco component you're interested in.
 2. Follow the setup instructions provided in each component's documentation.
-3. Integrate Myco features into your projects or use Myco tools to enhance your Web3 experience.
+3. Integrate Myco features into your projects or use Myco tools to enhance your creative building experience.
 
 For more detailed instructions, check out the [Getting Started](getting-started.md) guide.
 
