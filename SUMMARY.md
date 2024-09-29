@@ -1,7 +1,6 @@
 # Table of contents
 
 - [Introduction](README.md)
-- [Accounts](accounts.md)
-- [Chat](chat.md)
-- [Profile](profile.md)
-- [Score](score.md)
+- [Smart Wallets](smart-wallets.md)
+- [Profile](myco-profile.md)
+- [Zora Score](zora-score.md)
