@@ -16,21 +16,6 @@ The Chat feature utilizes the following Myco API endpoint to gather context:
 
 This endpoint fetches the context for the selected Zora profile, which includes the user's Zora Score, the list of tokens they have created, and other relevant information.
 
-## Example Request
-
-Here's an example of how you might request context for a specific Zora profile:
-
-```bash
-curl -X GET "https://api.myco.wtf/api/chat/context?address={selected_profile_address}"
-```
-
-Replace `{selected_profile_address}` with the actual address of the Zora profile you want to use for the conversation.
-
-## Example Response
-
-The response will be a JSON object containing the context for the selected Zora profile. Here's an example of what the response might look like:
-
-```
 ## Benefits
 
 - **Personalized Interactions**: Get responses tailored to the context of a specific Zora profile.
@@ -58,4 +43,7 @@ As we continue to improve the Chat feature, we plan to:
 - Introduce multi-lingual support for global accessibility
 
 For the latest updates and feature releases, keep an eye on our official channels and documentation.
+
+```
+
 ```
