@@ -9,9 +9,8 @@ To start using the Chat, visit [https://chat.myco.wtf](https://chat.myco.wtf).
 ## How it Works
 
 1. **Select a Zora Profile**: Choose a Zora profile to provide context for the conversation.
-2. **Enter Your Intention**: Type in your question or topic of interest.
-3. **Context Addition**: The system automatically adds relevant context using the Myco API.
-4. **AI-Powered Response**: OpenAI's API is used to generate and stream a contextually appropriate response.
+2. **Enter Your Intention**: Type in your question or topic of interest. Myco automatically adds relevant context using the Myco API.
+3. **AI-Powered Response**: OpenAI's API is used to generate and stream a contextually appropriate response.
 
 ## Example Intents
 
