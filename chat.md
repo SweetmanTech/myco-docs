@@ -12,7 +12,7 @@ Chat is an innovative feature that allows users to interact with an AI-powered a
 ## API Endpoint
 
 The Chat feature utilizes the following Myco API endpoint to gather context:
-GET /api/chat/context?address={selected_profile_address}
+`GET /api/chat/context?address={selected_profile_address}`
 
 This endpoint fetches the context for the selected Zora profile, which includes the user's Zora Score, the list of tokens they have created, and other relevant information.
 
