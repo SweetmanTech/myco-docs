@@ -2,6 +2,6 @@
 
 - [Introduction](README.md)
 - [Accounts](accounts.md)
+- [Chat](chat.md)
 - [Profile](profile.md)
 - [Score](score.md)
-- [Chat](chat.md)
