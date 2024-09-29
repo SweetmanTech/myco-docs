@@ -4,7 +4,7 @@ Chat is an innovative feature that allows users to interact with an AI-powered a
 
 ## Getting Started
 
-To start using the Chat feature, visit [https://chat.myco.wtf](https://chat.myco.wtf). This web application provides an intuitive interface for interacting with the AI assistant in the context of Zora profiles.
+To start using the Chat feature, visit [https://chat.myco.wtf](https://chat.myco.wtf).
 
 ## How it Works
 
