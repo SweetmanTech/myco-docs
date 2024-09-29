@@ -14,16 +14,16 @@ To start using the Chat, visit [https://chat.myco.wtf](https://chat.myco.wtf).
 
 ## Example Intents
 
-1. How many tokens has this artist created in the past week?
-2. How many different chains has this artist released on?
-3. What is their Zora score?
-4. Can you summarize this artist's recent activity on Zora?
-5. What is the most popular collection created by this artist?
-6. How does this artist's Zora score compare to the average?
-7. What themes or styles are prevalent in this artist's work?
-8. Has this artist collaborated with any other notable creators?
-9. What was the highest-grossing piece by this artist, and when was it sold?
-10. Can you provide insights on this artist's engagement with their community?
+- How many tokens has this artist created in the past week?
+- How many different chains has this artist released on?
+- What is their Zora score?
+- Can you summarize this artist's recent activity on Zora?
+- What is the most popular collection created by this artist?
+- How does this artist's Zora score compare to the average?
+- What themes or styles are prevalent in this artist's work?
+- Has this artist collaborated with any other notable creators?
+- What was the highest-grossing piece by this artist, and when was it sold?
+- Can you provide insights on this artist's engagement with their community?
 
 ## Benefits
 
