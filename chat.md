@@ -13,12 +13,18 @@ To start using the Chat, visit [https://chat.myco.wtf](https://chat.myco.wtf).
 3. **Context Addition**: The system automatically adds relevant context using the Myco API.
 4. **AI-Powered Response**: OpenAI's API is used to generate and stream a contextually appropriate response.
 
-## API Endpoint
+## Example Intents
 
-The Chat feature utilizes the following Myco API endpoint to gather context:
-`GET /api/chat/context?address={selected_profile_address}`
-
-This endpoint fetches the context for the selected Zora profile, which includes the user's Zora Score, the list of tokens they have created, and other relevant information.
+1. How many tokens has this artist created in the past week?
+2. How many different chains has this artist released on?
+3. What is their Zora score?
+4. Can you summarize this artist's recent activity on Zora?
+5. What is the most popular collection created by this artist?
+6. How does this artist's Zora score compare to the average?
+7. What themes or styles are prevalent in this artist's work?
+8. Has this artist collaborated with any other notable creators?
+9. What was the highest-grossing piece by this artist, and when was it sold?
+10. Can you provide insights on this artist's engagement with their community?
 
 ## Benefits
 
@@ -26,28 +32,9 @@ This endpoint fetches the context for the selected Zora profile, which includes 
 - **Enhanced Understanding**: The AI assistant can provide more accurate and relevant information by considering the profile's context.
 - **Streamlined Communication**: Easily obtain information about a creator's work, collections, or general blockchain topics.
 
-## Use Cases
+## API Endpoint
 
-- Inquire about a creator's recent works or collections
-- Get explanations about blockchain concepts in the context of a specific profile
-- Discover insights about a creator's style or themes
+The Chat feature utilizes the following Myco API endpoint to gather context:
+`GET /api/chat/context?address={selected_profile_address}`
 
-## Demo
-
-Watch this short video to see Chat in action:
-
-{% embed url="https://www.youtube.com/watch?v=your_demo_video_id" %}
-
-## Future Developments
-
-As we continue to improve the Chat feature, we plan to:
-
-- Expand the context sources to provide even more comprehensive responses
-- Implement user feedback mechanisms to refine the AI's understanding and responses
-- Introduce multi-lingual support for global accessibility
-
-For the latest updates and feature releases, keep an eye on our official channels and documentation.
-
-```
-
-```
+This endpoint fetches the context for the selected Zora profile, which includes the user's Zora Score, the list of tokens they have created, and other relevant information.
